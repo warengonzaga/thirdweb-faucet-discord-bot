@@ -1,0 +1,19 @@
+{
+  "name": "thirdweb-faucet-discord-bot",
+  "version": "1.0.0-beta.1",
+  "description": "[![created by](https://img.shields.io/badge/created%20by-Waren%20Gonzaga-blue.svg?longCache=true&style=flat-square)](https://github.com/warengonzaga) [![release](https://img.shields.io/github/release/warengonzaga/thirdweb-faucet-discord-bot.svg?style=flat-square)](https://github.com/warengonzaga/thirdweb-faucet-discord-bot/releases) [![star](https://img.shields.io/github/stars/warengonzaga/thirdweb-faucet-discord-bot.svg?style=flat-square)](https://github.com/warengonzaga/thirdweb-faucet-discord-bot/stargazers) [![license](https://img.shields.io/github/license/warengonzaga/thirdweb-faucet-discord-bot.svg?style=flat-square)](https://github.com/warengonzaga/thirdweb-faucet-discord-bot/blob/main/license)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WarenGonzaga/thirdweb-faucet-discord-bot.git"
+  },
+  "author": "Waren Gonzaga",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/WarenGonzaga/thirdweb-faucet-discord-bot/issues"
+  },
+  "homepage": "https://github.com/WarenGonzaga/thirdweb-faucet-discord-bot#readme"
+}
