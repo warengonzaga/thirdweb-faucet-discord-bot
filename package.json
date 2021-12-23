@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/WarenGonzaga/thirdweb-faucet-discord-bot/issues"
   },
-  "homepage": "https://github.com/WarenGonzaga/thirdweb-faucet-discord-bot#readme"
+  "homepage": "https://github.com/WarenGonzaga/thirdweb-faucet-discord-bot#readme",
+  "packageManager": "yarn@3.1.1"
 }
