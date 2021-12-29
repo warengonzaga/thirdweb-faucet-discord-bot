@@ -6,7 +6,7 @@
 
 ---
 
-A dedicated Discord bot for the thirdweb community. 🤖🚀
+A dedicated thirdweb community Discord bot that dispenses ETH test network tokens. 💸🔥
 
 ## ⚡ Features
 
@@ -26,14 +26,14 @@ If you're facing a problem in using Waren (Discord Bot) please [check the commun
 
 ## 🍀 Sponsors and Supporters
 
-> Love what I do? **[Send me some coffees](https://buymeacoff.ee/wareneutron)**! ☕☕☕
+> Love what I do? **[Send me some coffees](https://warengonzaga.com/donate)**! ☕☕☕
 >
 > Can't send coffees? 😥 Nominate me for a **[GitHub Star](https://stars.github.com/nominate)** instead!
 > Your coffee donation and support will help me to continue working on open-source projects like this. 🙏😇
 
 ## 📋 Code of Conduct
 
-Read the project's [code of conduct](./code_of_conduct.md).
+Read the project's [code of conduct](./CODE_OF_CONDUCT.md).
 
 ## 📃 License
 
