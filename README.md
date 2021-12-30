@@ -22,7 +22,7 @@ Read the project's [contributing guide](./CONTRIBUTING.md) for more info.
 
 ## 🐛 Issues
 
-If you're facing a problem in using Waren (Discord Bot) please [check the community FAQs first](https://github.com/WarenGonzaga/thirdweb-faucet-discord-bot/discussions?discussions_q=label%3Afaq), if your issue is a potential bug I would suggest to [create an issue here](https://github.com/warengonzaga/thirdweb-faucet-discord-bot/issues/new). I'm here to help you! 😇
+Please report any issues and bugs by [creating a new issue here](https://github.com/warengonzaga/thirdweb-faucet-discord-bot/issues/new), also make sure you're reporting an issue that doesn't exist. Any help to improve the project would be appreciated. Thanks! 🙏✨
 
 ## 🍀 Sponsors and Supporters
 
